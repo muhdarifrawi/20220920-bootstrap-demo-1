@@ -5,3 +5,18 @@
 .custom-inner-height{
     height:100vh;
 }
+
+.custom-color{
+    background-color: blueviolet;
+}
+.custom-button{
+    background-color: olivedrab;
+    color:white;
+}
+.custom-button:hover{
+    background-color: darkolivegreen !important;
+}
+
+.custom-button:active{
+    border-color: yellow !important;
+}
